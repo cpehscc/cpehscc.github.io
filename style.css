@@ -13,7 +13,42 @@ body {
 }
 
 /* STYLE TEXT */
-
+.Digit{
+  color:white;
+font-family:Trebuchet MS
+}
+.Digit{
+   color: #f2f2f2;
+  font-size: 25px;
+  padding: 5px 10px 5px 10px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+.Two{
+  color: #f2f2f2;
+  font-size: 25px;
+  padding: 40px 10px 40px 10px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+.Wrong{
+  color: #f2f2f2;
+  font-size: 25px;
+  padding: 75px 10px 60px 10px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+.Ten{
+    color: #f2f2f2;
+  font-size: 25px;
+  padding: 25px 10px 60px 10px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
 h1 {
   color:white;
   text-align: center;
@@ -392,4 +427,17 @@ html, body {
 }
 .coding{
   font-family:Trebuchet MS
+}
+.underunderimg{
+  font-size: 1.4rem;
+  font-family:Trebuchet MS;
+  color: white;
+  text-align:center;
+}
+
+.otherimg{
+  text-align:center;
+  font-size:2rem;
+  font-family:Trebuchet MS;
+  color: white
 }
