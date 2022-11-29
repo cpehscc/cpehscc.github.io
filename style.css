@@ -535,15 +535,17 @@ h1{
   font-family:Trebuchet MS
 }
 .underunderimg{
+  text-align:center;
   font-size: 1.4rem;
   font-family:Trebuchet MS;
   color: white;
-  text-align:center;
+  margin-right: 400px;
+  margin-left: 400px;
 }
 
 .otherimg{
   text-align:center;
   font-size:2rem;
   font-family:Trebuchet MS;
-  color: white
+  color: white;
 }
