@@ -13,140 +13,18 @@ body {
 }
 
 /* STYLE TEXT */
-.Digit{
+.Lesson{
   color:white;
 font-family:Trebuchet MS
 }
-.Digit{
+.Lesson{
    color: #f2f2f2;
   font-size: 25px;
   padding: 5px 0px 5px 0px;
   position: absolute;
   width: 100%;
   text-align: center;
-}
-.Two{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 40px 0px 40px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Wrong{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 75px 0px 75px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Ten{
-    color: #f2f2f2;
-  font-size: 25px;
-  padding: 0px 0px 0px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Ten{
-  color:white;
-font-family:Trebuchet MS
-}
-.First{
-  color:white;
-font-family:Trebuchet MS
-}
-.First{
-   color: #f2f2f2;
-  font-size: 25px;
-  padding: 35px 0px 35px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Way{
-  color:white;
-font-family:Trebuchet MS
-}
-.Way{
-   color: #f2f2f2;
-  font-size: 25px;
-  padding: 70px 0px 70px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Equal{
-   color:white;
-font-family:Trebuchet MS
-}
-.Equal{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 0px 0px 0px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Valid{
-    color:white;
-font-family:Trebuchet MS 
-}
-.Valid{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 35px 0px 35px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Team{
-  color:white;
-font-family:Trebuchet MS 
-}
-.Team{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 70px 0px 70px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Colors{
-  color:white;
-font-family:Trebuchet MS 
-}
-.Colors{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 0px 0px 0px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Word{
-  color:white;
-font-family:Trebuchet MS 
-}
-.Word{
-  color: #f2f2f2;
-  font-size: 25px;
-  padding: 35px 0px 35px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Capital{
-  font-size: 25px;
-  padding: 70px 0px 70px 0px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
-}
-.Capital{
-  color:white;
-font-family:Trebuchet MS
+  line-height: normal;
 }
 
 h1 {
